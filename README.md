@@ -1,31 +1,68 @@
-# Skoeus - Start Small, Go Global
-Skoeus – One platform, endless opportunities. Connect. Collaborate. Succeed. Official information about the website Skoeus before it gets launched for everyone. Everything typed here is by the Founder Radoslav Mitrashkov.
+# Skoeus – Start Small, Go Global
+
+### One platform, endless opportunities.  
+**Connect. Collaborate. Succeed.**  
+
+## Official Information Before Launch
+Everything here is written by the Founder, **Radoslav Mitrashkov**.
+
+---
 
 ## About Skoeus
-Skoeus is a modern marketplace that bridges the gap between businesses and entrepreneurs, providing a seamless platform for purchasing and offering services. Unlike traditional platforms, we prioritize accessibility, affordability, and quality.
+Skoeus is a **modern freelance marketplace** designed to bridge the gap between **businesses and entrepreneurs**. Our platform makes it easier than ever to **purchase and offer services**, prioritizing:
+- **Accessibility**
+- **Affordability**
+- **Quality**
+
+Unlike traditional platforms, **Skoeus** is built with fairness and transparency in mind, ensuring a seamless experience for both buyers and service providers.
+
+---
 
 ## What Makes Us Different?
-› Low Fees, High Value – Our platform takes a small percentage from transactions, ensuring lower costs for buyers while maximizing opportunities for service providers.
-› More Than Just Transactions – We don’t just connect businesses; we create a thriving community where individuals can network, collaborate, and grow.
-› Built-in Marketing & Ads – We integrate advertising solutions, including a feed and chat system, allowing users to boost their visibility and sales.
-› No Unnecessary Barriers – No mandatory subscriptions, hidden fees, or restrictive verifications—just an open marketplace for anyone to monetize their skills.
+### Low Fees, High Value
+We take a **small percentage** from transactions, keeping costs low for buyers while maximizing earnings for service providers.
 
-## At Skoeus, we act as the middleman, providing a secure and professional space where businesses find quality services, and entrepreneurs gain direct access to clients—all with fewer restrictions and greater earning potential.
+### More Than Just Transactions
+Skoeus isn’t just about hiring and selling services—we’re building a **thriving community** where professionals can **network, collaborate, and grow.**
 
-## Join us and experience a smarter, fairer, and more accessible way to do business.
+### Built-in Marketing & Ads
+- Integrated **advertising solutions**
+- **Feed & chat system** for networking
+- Boost visibility and **increase sales effortlessly**
 
-#Skoeus – One platform, endless opportunities. Connect. Collaborate. Succeed.
+### No Unnecessary Barriers
+- No mandatory subscriptions
+- No hidden fees
+- No restrictive verifications
 
+A truly **open** marketplace for anyone to **monetize their skills and grow their business.**
 
+---
 
-### Shorter about us
-Skoeus is a global freelance marketplace connecting businesses with skilled professionals. Find top talent, collaborate seamlessly, and get high-quality services at competitive prices. No hidden fees, no restrictions—just a smarter way to work.
+## Skoeus – A Smarter, Fairer, and More Accessible Marketplace
+At **Skoeus**, we act as the **middleman**, ensuring a **secure and professional** space where:
+- **Businesses find top-quality services**
+- **Entrepreneurs connect directly with clients**
+- **Fewer restrictions mean greater earning potential**
 
-### Official website domain
-skoeus.com
+Join us and experience the **next evolution of freelancing.**
 
-### Official website URL
-https://www.skoeus.com/
+**#Skoeus – One platform, endless opportunities.**  
+**Connect. Collaborate. Succeed.**  
 
-### Founder
-Radoslav Mitrashkov
+---
+
+## Shorter About Us
+Skoeus is a **global freelance marketplace** connecting businesses with **skilled professionals**. Find top talent, **collaborate seamlessly**, and get **high-quality services** at competitive prices.
+
+- **No hidden fees.**
+- **No restrictions.**
+- **Just a smarter way to work.**
+
+---
+
+## Official Website
+**Domain:** skoeus.com  
+**URL:** [www.skoeus.com](https://www.skoeus.com/)  
+
+**Founder:** *Radoslav Mitrashkov*
